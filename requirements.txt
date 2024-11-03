@@ -1,0 +1,6 @@
+argparse
+secure-smtplib
+pydig
+email-to
+dkimpy
+python-whois
